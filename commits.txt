@@ -1,0 +1,11 @@
+commit 8659425c2bdf82976631f5599006c491b76d067e
+Author: amalakamala <amalakamala.a@gmail.com>
+Date:   Wed Apr 19 22:10:59 2017 -0300
+
+    agregamos cambio css
+
+commit e9d8e20be40eb090a666528e551c68a80656bc62
+Author: amalakamala <amalakamala.a@gmail.com>
+Date:   Wed Apr 19 22:09:02 2017 -0300
+
+    iniciamos
